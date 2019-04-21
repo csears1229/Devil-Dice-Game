@@ -1,9 +1,3 @@
-/************************
-* A#: A01109507
-* Course: CS1400
-* Section: 13
-* HW#: 6
-***********************/
 #include <cstdlib>
 #include <ctime>
 #include <iostream>
